@@ -1,0 +1,20 @@
+id,descrizione,livello,timestampArrivo
+T001,Server di produzione irraggiungibile,CRITICO,1732000000
+T002,Richiesta nuovo account email,BASSO,1732000100
+T003,Stampante piano 2 non funziona,MEDIO,1732000050
+T004,Database non risponde,CRITICO,1732000200
+T005,PC lento in amministrazione,BASSO,1732000150
+T006,VPN non funziona per smart working,ALTO,1732000120
+T007,Backup notturno fallito,ALTO,1732000180
+T008,Firewall bloccato,CRITICO,1732000010
+T009,Installazione software contabilita,MEDIO,1732000300
+T010,Mouse rotto,BASSO,1732000020
+T011,Email non arrivano,ALTO,1732000060
+T012,Sito web offline,CRITICO,1732000400
+T013,Reset password,MEDIO,1732000250
+T014,Switch piano 1 guasto,ALTO,1732000500
+T015,Monitor nuovo,BASSO,1732000600
+T016,Errore applicazione gestionale,ALTO,1732000550
+T017,Cavo di rete danneggiato,medio,1732000700
+T018,Riga con campo mancante,ALTO
+T019,Timestamp non valido,MEDIO,abc
